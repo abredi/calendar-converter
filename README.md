@@ -14,7 +14,7 @@ Setup your machine setup
 
 ### Prerequisites
 
-- java 8 or newer version of java version
+- java 8 or newer version of java
 
 ### Setup
 
